@@ -19,19 +19,19 @@
                                         <div class="col-md-12">
                                             <div class="form-group">
                                                 <label>Product Name:</label>
-                                                <input type="text" class="form-control border-input" placeholder="Macbook pro">
+                                                <input type="text" class="form-control border-input" name='name' placeholder="Macbook pro">
                                                 <span class="text-danger"></span>
                                             </div>
 
                                             <div class="form-group">
                                                 <label>Product Price:</label>
-                                                <input type="text" class="form-control border-input" placeholder="$2500">
+                                                <input type="text" class="form-control border-input" name='price' placeholder="$2500">
                                             </div>
 
                                             <div class="form-group">
                                                 <label>Product Description:</label>
-                                                <textarea name="" id="" cols="30" rows="10"
-                                                          class="form-control border-input" placeholder="Product Description"></textarea>
+                                                <textarea name="description" id="" cols="30" rows="10"
+                                                          class="form-control border-input"  placeholder="Product Description"></textarea>
                                             </div>
 
                                             

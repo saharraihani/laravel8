@@ -20,9 +20,8 @@
                     <th>ID</th>
                     <th>Name</th>
                     <th>Price</th>
-                    <th>Desc</th>
-                    <th>Image</th>
-                    <th>Actions</th>
+                    <th>Description</th>
+                    
                 </tr>
                 </thead>
                 <tbody>
